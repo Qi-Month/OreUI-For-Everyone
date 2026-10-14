@@ -195,5 +195,7 @@ OnDreamQwQ, attributeslib
 
 OnDreamQwQ, apotheosis
 
-OnDreamQwq, lightmanscurrency
+OnDreamQwQ, lightmanscurrency
+
+OnDreamQwQ craftingtweaks
 
